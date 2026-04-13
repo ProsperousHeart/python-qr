@@ -1,10 +1,13 @@
 [project]
-name = "repo-template-python"
+name = "python-qr"
 version = "0.1.0"
-description = "Template repo for Python projects and AI code generation support."
+description = "A simple QR code generator for Python."
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "qrcode-artistic>=3.0.2",
+    "segno>=1.6.6",
+]
 
 [dependency-groups]
 dev = [
