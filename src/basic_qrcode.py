@@ -80,3 +80,7 @@ if __name__ == "__main__":
     generate_GIF_qr_code(scale=10, border=0, light="black", filename="form-0.gif",
                          data="https://forms.gle/xMbzVjo4iPQGf1QT8",
                          gif_loc=str(gif_path_0))
+    
+    generate_GIF_qr_code(scale=10, border=0, light="black", filename="repo-site-0.gif",
+                         data="https://resume.prosperousheart.com/mkdocs-jupyterlite-template-repo/",
+                         gif_loc=str(gif_path_0))
