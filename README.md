@@ -1,3 +1,7 @@
+This README has not yet been upated as of 20260408. But will be and will be done through lessons from [here](https://realpython.com/python-generate-qr-code/).
+
+---
+
 # Python Development Toolkit
 
 A comprehensive template and toolkit for Python projects with AI-assisted workflows, specification-driven development, and security-first patterns.
